@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.cadaeuro.finanzas",
+        "sha256_cert_fingerprints": ["87:06:06:2F:0C:74:D9:88:7C:AF:9A:6D:49:B7:BB:12:CF:3E:9C:D2:AB:B0:B3:A6:C8:10:39:45:6F:BF:66:86"]
+      }
+    }]
